@@ -1,3 +1,5 @@
+> **Project type: Learning / practice.** This repository documents an earlier stage of my development journey and is kept as a learning reference and portfolio exercise.
+
 # Currency Converter Project
 
 ## Project Overview
